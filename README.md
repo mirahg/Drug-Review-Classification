@@ -11,7 +11,7 @@ Two jupyter notebooks contain all the necessary code for this project:
 
 * ML Final Project (Cleaning) - has code for loading in data, doing preliminary data exploration, cleaning and filtering data (including using nltk sentiment analysis on reviews), and finishing up by pre-processing the filtered dataset. The result of this notebook are four csv files which are cleaned and pre-processed and ready to be used in the second notebook.
 
-* ML Final Project (Models and Metrics) - has code for splitting the pre-processed data into training and testing sets, standardized the train and test data, and all 6 models employed in this project. It also includes metrics for analyzing each model and finally has visualizations of results and analysis.
+* ML Final Project (Models) - has code for splitting the pre-processed data into training and testing sets, standardized the train and test data, and all 6 models employed in this project. It also includes metrics for analyzing each model and finally has visualizations of results and analysis.
 
 Other documents included in this repository are the output csv's from data cleaning and the final project report that was submitted.
 
