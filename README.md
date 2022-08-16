@@ -3,7 +3,7 @@
 
 ### Mirah Gordon, Genny Jawor, Caterina Wang
 
-Final project utilizing machine learning models and various python libraries (pandas, numpy, matplotlib, nltk, sklearn) in order to classify the efficacy of a given drug for a given condition based on thousands of user reviews from drugs.com.
+Final project utilizing machine learning models and various Python libraries (pandas, numpy, matplotlib, nltk, sklearn) in order to classify the efficacy of a given drug for a given condition based on thousands of user reviews from drugs.com.
 
 The dataset was sourced from the [UCI Drug Review Dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29) and includes 215,000 rows with 6 attributes (drug name, condition, date, review, rating, useful count).
 
