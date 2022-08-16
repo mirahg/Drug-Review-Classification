@@ -23,4 +23,4 @@ Link to our presentation and video recording are below:
 
 [Presentation](https://docs.google.com/presentation/d/1oK6h0p7kYjFIcyQdXBHK1VYijZ7AbsI724c7ithJ06s/edit?usp=sharing)
 
-[Video Recording]()
+[Video Recording](https://youtu.be/bgONHXgaTMA)
